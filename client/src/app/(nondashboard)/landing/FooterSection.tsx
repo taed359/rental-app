@@ -49,7 +49,7 @@ const FooterSection = () => {
 
                     <div className="mb-4 flex space-x-4">
                         <a
-                            href="https://www.facebook.com/"
+                            href="https://www.facebook.com/taed13/"
                             target="_blank"
                             aria-label="Facebook"
                             className="hover:text-primary-600"
@@ -60,7 +60,7 @@ const FooterSection = () => {
                             />
                         </a>
                         <a
-                            href="https://x.com/"
+                            href="https://x.com/taedtech13"
                             target="_blank"
                             aria-label="Twitter"
                             className="hover:text-primary-600"
@@ -71,7 +71,7 @@ const FooterSection = () => {
                             />
                         </a>
                         <a
-                            href="https://www.linkedin.com/"
+                            href="https://www.linkedin.com/in/taed13/"
                             target="_blank"
                             aria-label="Linkedin"
                             className="hover:text-primary-600"
@@ -82,7 +82,7 @@ const FooterSection = () => {
                             />
                         </a>
                         <a
-                            href="https://www.youtube.com/"
+                            href="https://www.youtube.com/@taed13"
                             target="_blank"
                             aria-label="Youtube"
                             className="hover:text-primary-600"
@@ -93,7 +93,7 @@ const FooterSection = () => {
                             />
                         </a>
                         <a
-                            href="https://www.instagram.com/"
+                            href="https://www.instagram.com/taed1011_/"
                             target="_blank"
                             aria-label="Instagram"
                             className="hover:text-primary-600"
