@@ -66,8 +66,11 @@ const DiscoverSection = () => {
                             description:
                                 "Move into your new rental property and start enjoying your dream home.",
                         },
-                    ].map((card, index) => (
-                        <motion.div key={index} variants={itemVariants}>
+                    ].map((card) => (
+                        <motion.div
+                            key={`${card.imageSrc}-${card.title}`}
+                            variants={itemVariants}
+                        >
                             <DiscoverCard {...card} />
                         </motion.div>
                     ))}
